@@ -1,5 +1,8 @@
 _repo: Nick-Carter-Stories-No-140-May-15-1915_66764
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66764-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carter, Nicholas (House name)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '53946'
     url: http://www.gutenberg.org/2009/agents/53946
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66764#Nick-Carter-Stories-No-140-May-15-1915
 gutenberg_issued: '2021-11-18'
 identifiers:
   gutenberg: '66764'
